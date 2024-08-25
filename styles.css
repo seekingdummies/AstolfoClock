@@ -14,7 +14,7 @@ body {
   color: #FF79CB;
   font-size: 100px;
   font-family: "Montserrat", sans-serif;
-  font-weight: 700; /* Use this for bold text */
+  font-weight: 200; /* Use this for bold text */
   letter-spacing: 4px;
   text-shadow:
     0 0 5px rgba(255, 105, 180, 0.8), /* Glowing effect */
