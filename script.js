@@ -11,3 +11,6 @@ function showTime() {
 }
 
 showTime();
+
+// Update time when the window gains focus
+window.addEventListener('focus', showTime);
