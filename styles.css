@@ -1,0 +1,21 @@
+body {
+  background: url('https://i.imgur.com/7sdKZ6v.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.clock {
+  position: absolute;
+  top: 4%;
+  right: 2%;
+  color: #FF79CB;
+  font-size: 100px;
+  font-family: "Montserrat", sans-serif;
+  font-style: bold;
+  font-weight: 200;
+  letter-spacing: 4px;
+  text-shadow:
+    0 0 5px rgba(255, 105, 180, 0.8),
+    /* Glowing effect */
+    2px 2px 4px rgba(0, 0, 0, 0.6);
+  /* Drop shadow */
+}
